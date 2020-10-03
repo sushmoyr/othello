@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ExMachina/CLionProjects/OthelloCLion/ui.cpp
+ui.h
+C:/Users/ExMachina/CLionProjects/OthelloCLion/ui.h
+iostream
+-
+
+C:/Users/ExMachina/CLionProjects/OthelloCLion/ui.h
+chrono
+-
+conio.h
+-
+bits/stdc++.h
+-
+
